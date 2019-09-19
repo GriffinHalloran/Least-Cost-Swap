@@ -24,6 +24,7 @@ wi are all different
 Sample Input 1
 
 5
+
 1 5 3 4 2
 
 Sample Output 1
@@ -33,6 +34,7 @@ Sample Output 1
 Sample Input 2
 
 4
+
 4 3 2 1
 
 Sample Output 2
